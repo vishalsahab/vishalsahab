@@ -10,11 +10,11 @@
 
 ### 👨‍💻 About Me
 
-- 💼 **Software Developer** at **TV Today Network Limited (India Today Group)**[cite: 1].
-- 🤖 Building multi-modal AI agents integrating **Google Gemini** and **OpenAI** APIs[cite: 1].
-- 🚀 Open-source contributor to [Agno-AGI](https://github.com/agno-agi/agno) (Vertex AI local video agent pipelines)[cite: 1].
-- 🎓 **B.Tech in Computer Science & Engineering** from Bansal Institute of Engineering and Technology, Lucknow (CGPA: 8.06)[cite: 1].
-- 🎖️ Former **Chairman** of IEEE Student Branch, BIET Lucknow[cite: 1].
+- 💼 **Software Developer** at **TV Today Network Limited (India Today Group)**.
+- 🤖 Building multi-modal AI agents integrating **Google Gemini** and **OpenAI** APIs.
+- 🚀 Open-source contributor to [Agno-AGI](https://github.com/agno-agi/agno) (Vertex AI local video agent pipelines).
+- 🎓 **B.Tech in Computer Science & Engineering** from Bansal Institute of Engineering and Technology, Lucknow (CGPA: 8.06).
+- 🎖️ Former **Chairman** of IEEE Student Branch, BIET Lucknow.
 
 ---
 
@@ -63,9 +63,9 @@
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Agno-AGI Framework** | Resolved an open-source issue enabling local video input streaming to Vertex AI Gemini models[cite: 1]. | Python, Vertex AI, Gemini | [Contributed](https://github.com/agno-agi/agno) |
-| **Biotech Department Portal** | Full-stack departmental web portal using cloud-hosted S3 storage and transactional databases[cite: 1]. | Python, Django, AWS S3[cite: 1] | [Live Demo](https://bietdbt.pythonanywhere.com/)[cite: 1] |
-| **MAESM-2021** | Official portal for the International Conference on Modern Approaches in Engineering, Science & Management[cite: 1]. | HTML, Bootstrap, EasyChair[cite: 1] | [Repository](https://github.com/MAESM2021/maesm)[cite: 1] |
+| **Agno-AGI Framework** | Resolved an open-source issue enabling local video input streaming to Vertex AI Gemini models. | Python, Vertex AI, Gemini | [Contributed](https://github.com/agno-agi/agno) |
+| **Biotech Department Portal** | Full-stack departmental web portal using cloud-hosted S3 storage and transactional databases. | Python, Django, AWS S3 | [Live Demo](https://bietdbt.pythonanywhere.com/) |
+| **MAESM-2021** | Official portal for the International Conference on Modern Approaches in Engineering, Science & Management. | HTML, Bootstrap, EasyChair | [Repository](https://github.com/MAESM2021/maesm) |
 | **Student DBMS** | Record management system for structured data manipulation and query optimizations. | C#, MySQL, Database Design | [Repository](https://github.com/vishalsahab/student-database-management-system) |
 
 ---
