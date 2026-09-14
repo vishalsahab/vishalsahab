@@ -88,4 +88,7 @@
   <a href="mailto:vishal.aktu1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+   <a href="https://www.canva.com/p/vishalkumarsingh/" target="_blank">
+    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  </a>
 </p>
